@@ -1,0 +1,44 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    font-size: 1.75rem;
+    color: whitesmoke;
+}
+
+.nav-link {
+    color:whitesmoke;
+}
+.navbar{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.bg-light {
+    background-color: transparent!important;
+}
+
+.bg-main{
+     background: url('/assets/headerBackground.jpg');
+    background-size: cover;
+}
+.sign-up-btn{
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-left: auto;
+}
+.sign-up-btn:hover{
+    background-color: #FF4E50;
+    border: white
+}
+.jumbotron {
+    padding: 4rem 2rem;
+    background-color: transparent;
+    color: white;
+}
+.jumbotron-btn {
+    color: #fff;
+    background-color: #FF4E50;
+   
+}
